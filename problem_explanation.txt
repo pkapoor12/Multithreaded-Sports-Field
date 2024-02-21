@@ -1,0 +1,14 @@
+Pujeet K
+Multithreaded Sports Field
+
+This text file explains how my implementation of this sports field prevents thread starvation, allowing each player in each sport to play a match twice.
+
+My solution to the WGP problem prevents starvation of threads between sports and within sports by keeping track of the last sport that played a match in the stadium within
+a global variable. For each sport baseball, football, and rugby, the condition variable to be activated for entering the field sits in a while loop. The conditions for these while loops
+to break includes the field being unoccupied by another sport AND the last sport played NOT being the sport trying to enter. Therefore, the stadium prohibits the same
+sport from playing twice in a row. The only exception to this rule is when all other sports have played all their matches, so the current sport trying to enter has to play twice in a row for it to complete all its matches. This exception is handled
+by tracking the total number of games played on the field in a global variable (which each sport increments when it has finished a match), then compared to a max number of games
+that can be played (based on how many games each player gets to play, which is 2 in this case). My solution is also able to prevent starvation of player threads within a sport,
+making sure each player has a chance to play twice. It does so by making threads enter a team and try to play only twice, via the use of a for loop. Once a thread has gone through
+two iterations of playing a match, it exits. So, a thread cannot play more than two games, and every player thread gets a chance to play twice. There is also a delay after each
+player thread leaves the field after a match, which can give time for the threads who didn't get a chance to play to enter a team and play.

@@ -1,0 +1,382 @@
+Script started on 2024-02-05 04:12:26+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="271" LINES="59"]
+student@cs2324:~/Documents/Projects/Project 2$ make clean
+rm -f stadium
+student@cs2324:~/Documents/Projects/Project 2$ make
+gcc -o stadium stadium.c
+student@cs2324:~/Documents/Projects/Project 2$ ./stadium
+			[Rugby: 90]: Pair Ready
+			[Rugby: 98]: Pair Ready
+			[Rugby: 104]: Pair Ready
+			[Rugby: 111]: Pair Ready
+			[Rugby: 124]: Pair Ready
+			[Rugby: 127]: Pair Ready
+			[Rugby: 81]: Pair Ready
+			[Rugby: 89]: Pair Ready
+			[Rugby: 97]: Pair Ready
+			[Rugby: 112]: Pair Ready
+			[Rugby: 117]: Pair Ready
+			[Rugby: 100]: Pair Ready
+			[Rugby: 140]: Pair Ready
+			[Rugby: 132]: Pair Ready
+			[Rugby: 115]: Pair Ready
+			[Rugby: 115] Game STARTED
+			[Rugby: 124] Playing at position 10 (Pair 5)
+			[Rugby: 111] Playing at position 8 (Pair 4)
+			[Rugby: 90] Playing at position 2 (Pair 1)
+			[Rugby: 134] Playing at position 13 (Pair 7)
+			[Rugby: 113] Playing at position 9 (Pair 5)
+			[Rugby: 106] Playing at position 23 (Pair 12)
+			[Rugby: 81] Playing at position 14 (Pair 7)
+			[Rugby: 120] Playing at position 25 (Pair 13)
+			[Rugby: 102] Playing at position 5 (Pair 3)
+			[Rugby: 85] Playing at position 15 (Pair 8)
+			[Rugby: 109] Playing at position 7 (Pair 4)
+			[Rugby: 98] Playing at position 4 (Pair 2)
+			[Rugby: 127] Playing at position 12 (Pair 6)
+			[Rugby: 129] Playing at position 27 (Pair 14)
+			[Rugby: 112] Playing at position 20 (Pair 10)
+			[Rugby: 132] Playing at position 28 (Pair 14)
+			[Rugby: 130] Playing at position 29 (Pair 15)
+			[Rugby: 95] Playing at position 3 (Pair 2)
+			[Rugby: 117] Playing at position 22 (Pair 11)
+			[Rugby: 83] Playing at position 1 (Pair 1)
+			[Rugby: 99] Playing at position 19 (Pair 10)
+			[Rugby: 100] Playing at position 24 (Pair 12)
+			[Rugby: 94] Playing at position 17 (Pair 9)
+			[Rugby: 115] Playing at position 30 (Pair 15)
+			[Rugby: 114] Playing at position 21 (Pair 11)
+			[Rugby: 126] Playing at position 11 (Pair 6)
+			[Rugby: 140] Playing at position 26 (Pair 13)
+			[Rugby: 104] Playing at position 6 (Pair 3)
+			[Rugby: 89] Playing at position 16 (Pair 8)
+			[Rugby: 97] Playing at position 18 (Pair 9)
+[Football: 58]: Team Ready
+		[Baseball: 7]: Team Ready
+			[Rugby: 126] Game ENDED
+			[Rugby: 101]: Pair Ready
+			[Rugby: 128]: Pair Ready
+			[Rugby: 103]: Pair Ready
+			[Rugby: 107]: Pair Ready
+			[Rugby: 110]: Pair Ready
+			[Rugby: 93]: Pair Ready
+			[Rugby: 133]: Pair Ready
+			[Rugby: 119]: Pair Ready
+			[Rugby: 121]: Pair Ready
+			[Rugby: 122]: Pair Ready
+			[Rugby: 131]: Pair Ready
+			[Rugby: 125]: Pair Ready
+			[Rugby: 111]: Pair Ready
+			[Rugby: 90]: Pair Ready
+			[Rugby: 108]: Pair Ready
+[Football: 58] Game STARTED
+[Football: 58] Playing at position 22
+[Football: 40] Playing at position 10
+[Football: 77] Playing at position 8
+[Football: 65] Playing at position 6
+[Football: 51] Playing at position 4
+[Football: 76] Playing at position 16
+[Football: 43] Playing at position 19
+[Football: 55] Playing at position 14
+[Football: 73] Playing at position 7
+[Football: 59] Playing at position 5
+[Football: 47] Playing at position 20
+[Football: 79] Playing at position 17
+[Football: 39] Playing at position 9
+[Football: 57] Playing at position 15
+[Football: 54] Playing at position 13
+[Football: 68] Playing at position 18
+[Football: 49] Playing at position 3
+[Football: 42] Playing at position 2
+[Football: 52] Playing at position 12
+[Football: 56] Playing at position 21
+[Football: 38] Playing at position 1
+[Football: 50] Playing at position 11
+[Football: 58] Game ENDED
+[Football: 80]: Team Ready
+		[Baseball: 7] Game STARTED
+		[Baseball: 7] Playing at position 18
+		[Baseball: 34] Playing at position 17
+		[Baseball: 22] Playing at position 14
+		[Baseball: 6] Playing at position 12
+		[Baseball: 35] Playing at position 8
+		[Baseball: 30] Playing at position 15
+		[Baseball: 32] Playing at position 16
+		[Baseball: 24] Playing at position 4
+		[Baseball: 16] Playing at position 13
+		[Baseball: 31] Playing at position 7
+		[Baseball: 8] Playing at position 11
+		[Baseball: 29] Playing at position 6
+		[Baseball: 1] Playing at position 2
+		[Baseball: 15] Playing at position 3
+		[Baseball: 2] Playing at position 10
+		[Baseball: 4] Playing at position 9
+		[Baseball: 5] Playing at position 1
+		[Baseball: 3] Playing at position 5
+		[Baseball: 3] Game ENDED
+			[Rugby: 108] Game STARTED
+			[Rugby: 108] Playing at position 30 (Pair 15)
+			[Rugby: 96] Playing at position 5 (Pair 3)
+			[Rugby: 136] Playing at position 9 (Pair 5)
+			[Rugby: 105] Playing at position 1 (Pair 1)
+			[Rugby: 107] Playing at position 8 (Pair 4)
+			[Rugby: 128] Playing at position 4 (Pair 2)
+			[Rugby: 86] Playing at position 11 (Pair 6)
+			[Rugby: 137] Playing at position 23 (Pair 12)
+			[Rugby: 119] Playing at position 16 (Pair 8)
+			[Rugby: 116] Playing at position 17 (Pair 9)
+			[Rugby: 88] Playing at position 7 (Pair 4)
+			[Rugby: 87] Playing at position 3 (Pair 2)
+			[Rugby: 121] Playing at position 18 (Pair 9)
+			[Rugby: 93] Playing at position 12 (Pair 6)
+			[Rugby: 111] Playing at position 26 (Pair 13)
+			[Rugby: 133] Playing at position 14 (Pair 7)
+			[Rugby: 135] Playing at position 19 (Pair 10)
+			[Rugby: 95] Playing at position 21 (Pair 11)
+			[Rugby: 83] Playing at position 25 (Pair 13)
+			[Rugby: 90] Playing at position 28 (Pair 14)
+			[Rugby: 92] Playing at position 13 (Pair 7)
+			[Rugby: 110] Playing at position 10 (Pair 5)
+			[Rugby: 103] Playing at position 6 (Pair 3)
+			[Rugby: 101] Playing at position 2 (Pair 1)
+			[Rugby: 131] Playing at position 22 (Pair 11)
+			[Rugby: 125] Playing at position 24 (Pair 12)
+			[Rugby: 118] Playing at position 27 (Pair 14)
+			[Rugby: 122] Playing at position 20 (Pair 10)
+			[Rugby: 84] Playing at position 29 (Pair 15)
+			[Rugby: 139] Playing at position 15 (Pair 8)
+		[Baseball: 17]: Team Ready
+			[Rugby: 101] Game ENDED
+			[Rugby: 91]: Pair Ready
+			[Rugby: 129]: Pair Ready
+[Football: 80] Game STARTED
+[Football: 80] Playing at position 22
+[Football: 75] Playing at position 3
+[Football: 48] Playing at position 7
+[Football: 44] Playing at position 5
+[Football: 46] Playing at position 4
+[Football: 74] Playing at position 6
+[Football: 67] Playing at position 8
+[Football: 72] Playing at position 2
+[Football: 41] Playing at position 9
+[Football: 60] Playing at position 10
+[Football: 53] Playing at position 1
+[Football: 64] Playing at position 12
+[Football: 69] Playing at position 11
+[Football: 71] Playing at position 13
+[Football: 61] Playing at position 14
+[Football: 70] Playing at position 16
+[Football: 45] Playing at position 17
+[Football: 63] Playing at position 15
+[Football: 62] Playing at position 18
+[Football: 66] Playing at position 19
+[Football: 37] Playing at position 20
+[Football: 78] Playing at position 21
+			[Rugby: 94]: Pair Ready
+			[Rugby: 81]: Pair Ready
+			[Rugby: 114]: Pair Ready
+			[Rugby: 140]: Pair Ready
+			[Rugby: 85]: Pair Ready
+			[Rugby: 112]: Pair Ready
+			[Rugby: 127]: Pair Ready
+			[Rugby: 97]: Pair Ready
+			[Rugby: 132]: Pair Ready
+			[Rugby: 120]: Pair Ready
+			[Rugby: 134]: Pair Ready
+			[Rugby: 126]: Pair Ready
+			[Rugby: 115]: Pair Ready
+[Football: 80] Game ENDED
+		[Baseball: 17] Game STARTED
+		[Baseball: 17] Playing at position 18
+		[Baseball: 27] Playing at position 3
+		[Baseball: 21] Playing at position 8
+		[Baseball: 23] Playing at position 9
+		[Baseball: 36] Playing at position 10
+		[Baseball: 11] Playing at position 11
+		[Baseball: 9] Playing at position 6
+		[Baseball: 26] Playing at position 7
+		[Baseball: 33] Playing at position 14
+		[Baseball: 12] Playing at position 13
+		[Baseball: 25] Playing at position 12
+		[Baseball: 20] Playing at position 2
+		[Baseball: 14] Playing at position 15
+		[Baseball: 13] Playing at position 1
+		[Baseball: 19] Playing at position 16
+		[Baseball: 18] Playing at position 17
+		[Baseball: 28] Playing at position 4
+[Football: 58]: Team Ready
+		[Baseball: 10] Playing at position 5
+		[Baseball: 17] Game ENDED
+			[Rugby: 115] Game STARTED
+			[Rugby: 115] Playing at position 30 (Pair 15)
+		[Baseball: 3]: Team Ready
+			[Rugby: 140] Playing at position 12 (Pair 6)
+			[Rugby: 94] Playing at position 6 (Pair 3)
+			[Rugby: 124] Playing at position 5 (Pair 3)
+			[Rugby: 97] Playing at position 20 (Pair 10)
+			[Rugby: 127] Playing at position 18 (Pair 9)
+			[Rugby: 114] Playing at position 10 (Pair 5)
+			[Rugby: 100] Playing at position 21 (Pair 11)
+			[Rugby: 99] Playing at position 29 (Pair 15)
+			[Rugby: 81] Playing at position 8 (Pair 4)
+			[Rugby: 138] Playing at position 1 (Pair 1)
+			[Rugby: 91] Playing at position 2 (Pair 1)
+			[Rugby: 123] Playing at position 3 (Pair 2)
+			[Rugby: 129] Playing at position 4 (Pair 2)
+			[Rugby: 102] Playing at position 15 (Pair 8)
+			[Rugby: 82] Playing at position 7 (Pair 4)
+			[Rugby: 112] Playing at position 16 (Pair 8)
+			[Rugby: 113] Playing at position 17 (Pair 9)
+			[Rugby: 104] Playing at position 25 (Pair 13)
+			[Rugby: 130] Playing at position 23 (Pair 12)
+			[Rugby: 120] Playing at position 24 (Pair 12)
+			[Rugby: 134] Playing at position 26 (Pair 13)
+			[Rugby: 85] Playing at position 14 (Pair 7)
+			[Rugby: 132] Playing at position 22 (Pair 11)
+			[Rugby: 98] Playing at position 13 (Pair 7)
+			[Rugby: 89] Playing at position 9 (Pair 5)
+			[Rugby: 106] Playing at position 11 (Pair 6)
+			[Rugby: 117] Playing at position 27 (Pair 14)
+			[Rugby: 109] Playing at position 19 (Pair 10)
+			[Rugby: 126] Playing at position 28 (Pair 14)
+			[Rugby: 132] Game ENDED
+			[Rugby: 110]: Pair Ready
+			[Rugby: 122]: Pair Ready
+			[Rugby: 103]: Pair Ready
+			[Rugby: 84]: Pair Ready
+			[Rugby: 136]: Pair Ready
+			[Rugby: 139]: Pair Ready
+			[Rugby: 105]: Pair Ready
+			[Rugby: 108]: Pair Ready
+[Football: 58] Game STARTED
+			[Rugby: 116]: Pair Ready
+[Football: 58] Playing at position 22
+[Football: 73] Playing at position 2
+[Football: 59] Playing at position 3
+[Football: 49] Playing at position 4
+[Football: 55] Playing at position 6
+[Football: 39] Playing at position 5
+[Football: 57] Playing at position 7
+[Football: 68] Playing at position 8
+[Football: 42] Playing at position 9
+[Football: 65] Playing at position 1
+[Football: 79] Playing at position 10
+[Football: 54] Playing at position 11
+[Football: 47] Playing at position 12
+[Football: 77] Playing at position 13
+[Football: 76] Playing at position 14
+[Football: 51] Playing at position 15
+[Football: 56] Playing at position 16
+[Football: 38] Playing at position 17
+[Football: 52] Playing at position 18
+[Football: 43] Playing at position 19
+[Football: 40] Playing at position 20
+[Football: 50] Playing at position 21
+			[Rugby: 87]: Pair Ready
+			[Rugby: 135]: Pair Ready
+			[Rugby: 86]: Pair Ready
+			[Rugby: 101]: Pair Ready
+			[Rugby: 82]: Pair Ready
+			[Rugby: 138]: Pair Ready
+[Football: 58] Game ENDED
+[Football: 80]: Team Ready
+		[Baseball: 3] Game STARTED
+		[Baseball: 32] Playing at position 3
+		[Baseball: 30] Playing at position 4
+		[Baseball: 34] Playing at position 5
+		[Baseball: 22] Playing at position 6
+		[Baseball: 29] Playing at position 7
+		[Baseball: 1] Playing at position 8
+		[Baseball: 24] Playing at position 9
+		[Baseball: 15] Playing at position 10
+		[Baseball: 2] Playing at position 11
+		[Baseball: 8] Playing at position 12
+		[Baseball: 35] Playing at position 13
+		[Baseball: 4] Playing at position 14
+		[Baseball: 31] Playing at position 15
+		[Baseball: 5] Playing at position 16
+		[Baseball: 6] Playing at position 1
+		[Baseball: 16] Playing at position 2
+		[Baseball: 7] Playing at position 17
+		[Baseball: 3] Playing at position 18
+		[Baseball: 3] Game ENDED
+			[Rugby: 138] Game STARTED
+			[Rugby: 138] Playing at position 30 (Pair 15)
+			[Rugby: 96] Playing at position 1 (Pair 1)
+			[Rugby: 110] Playing at position 2 (Pair 1)
+			[Rugby: 107] Playing at position 3 (Pair 2)
+			[Rugby: 122] Playing at position 4 (Pair 2)
+			[Rugby: 93] Playing at position 5 (Pair 3)
+			[Rugby: 103] Playing at position 6 (Pair 3)
+			[Rugby: 128] Playing at position 7 (Pair 4)
+			[Rugby: 87] Playing at position 20 (Pair 10)
+			[Rugby: 108] Playing at position 16 (Pair 8)
+			[Rugby: 135] Playing at position 22 (Pair 11)
+			[Rugby: 119] Playing at position 23 (Pair 12)
+			[Rugby: 86] Playing at position 24 (Pair 12)
+			[Rugby: 133] Playing at position 25 (Pair 13)
+			[Rugby: 88] Playing at position 21 (Pair 11)
+			[Rugby: 121] Playing at position 19 (Pair 10)
+			[Rugby: 116] Playing at position 18 (Pair 9)
+			[Rugby: 136] Playing at position 10 (Pair 5)
+			[Rugby: 139] Playing at position 12 (Pair 6)
+			[Rugby: 92] Playing at position 13 (Pair 7)
+			[Rugby: 105] Playing at position 14 (Pair 7)
+			[Rugby: 131] Playing at position 15 (Pair 8)
+			[Rugby: 118] Playing at position 11 (Pair 6)
+			[Rugby: 125] Playing at position 9 (Pair 5)
+			[Rugby: 84] Playing at position 8 (Pair 4)
+		[Baseball: 26]: Team Ready
+			[Rugby: 91] Playing at position 29 (Pair 15)
+			[Rugby: 137] Playing at position 17 (Pair 9)
+			[Rugby: 123] Playing at position 27 (Pair 14)
+			[Rugby: 101] Playing at position 26 (Pair 13)
+			[Rugby: 82] Playing at position 28 (Pair 14)
+			[Rugby: 118] Game ENDED
+[Football: 80] Game STARTED
+[Football: 80] Playing at position 22
+[Football: 67] Playing at position 16
+[Football: 44] Playing at position 20
+[Football: 72] Playing at position 12
+[Football: 53] Playing at position 19
+[Football: 63] Playing at position 11
+[Football: 64] Playing at position 7
+[Football: 37] Playing at position 10
+[Football: 45] Playing at position 8
+[Football: 61] Playing at position 4
+[Football: 48] Playing at position 14
+[Football: 75] Playing at position 17
+[Football: 60] Playing at position 21
+[Football: 78] Playing at position 3
+[Football: 46] Playing at position 13
+[Football: 70] Playing at position 9
+[Football: 69] Playing at position 5
+[Football: 74] Playing at position 15
+[Football: 62] Playing at position 2
+[Football: 41] Playing at position 18
+[Football: 71] Playing at position 6
+[Football: 66] Playing at position 1
+[Football: 80] Game ENDED
+		[Baseball: 26] Game STARTED
+		[Baseball: 26] Playing at position 18
+		[Baseball: 18] Playing at position 16
+		[Baseball: 23] Playing at position 15
+		[Baseball: 12] Playing at position 4
+		[Baseball: 20] Playing at position 7
+		[Baseball: 14] Playing at position 14
+		[Baseball: 11] Playing at position 2
+		[Baseball: 17] Playing at position 10
+		[Baseball: 19] Playing at position 8
+		[Baseball: 10] Playing at position 12
+		[Baseball: 9] Playing at position 13
+		[Baseball: 28] Playing at position 17
+		[Baseball: 21] Playing at position 6
+		[Baseball: 27] Playing at position 9
+		[Baseball: 33] Playing at position 3
+		[Baseball: 13] Playing at position 5
+		[Baseball: 25] Playing at position 1
+		[Baseball: 36] Playing at position 11
+		[Baseball: 36] Game ENDED
+student@cs2324:~/Documents/Projects/Project 2$ exit
+exit
+
+Script done on 2024-02-05 04:15:56+00:00 [COMMAND_EXIT_CODE="0"]
